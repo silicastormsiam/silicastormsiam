@@ -1,5 +1,3 @@
-
-```markdown
 # 👋 Welcome to SilicaStormSiam's GitHub!
 <a href="https://github.com/silicastormsiam"><img src="https://avatars.githubusercontent.com/u/<your_user_id>?v=4" alt="Andrew John Holland" style="width:100px; height:100px; border-radius:50%; border: 2px solid transparent;" onmouseover="this.style.border='2px solid #FF69B4';" onmouseout="this.style.border='2px solid transparent';"></a>
 
