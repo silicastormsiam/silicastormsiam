@@ -1,8 +1,3 @@
-Got it — I’ll merge your **current GitHub profile README** with the **master project index README** I just drafted, keeping all your personal intro, skills, history, and stats intact, but embedding the PMO-approved project list so it becomes **one unified README.md** for your `silicastormsiam` repo.
-
-Here’s the merged result:
-
----
 
 ```markdown
 # 👋 Welcome to SilicaStormSiam's GitHub!
