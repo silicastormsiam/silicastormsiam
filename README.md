@@ -89,8 +89,4 @@ This is the **centralized index** for all active, historical, and archived proje
 *Last updated: August 13, 2025 – Maintained by Sensei PMO*
 ```
 
----
 
-If you want, I can prep this **exact combined README.md** so you can drop it straight into the `silicastormsiam` repo without editing.
-
-Do you want me to send you the **ready-to-commit file** next?
