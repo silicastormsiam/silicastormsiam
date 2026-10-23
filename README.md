@@ -29,7 +29,6 @@ With experience at multiple airlines, including **Etihad Airways**, leading larg
 ---
 
 ## 🚀 Featured Projects
-- **[Hive PMO](https://github.com/silicastormsiam/Hive-PMO)**: A project management board where one owner approves and an AI team works every stage. Nine stages, one approval gate, self-hosted with Docker, MIT licensed.
 - **[AGP - Flight Tracker 2.5](https://github.com/silicastormsiam/agp-flight-tracker)**: Flask-based app for tracking flight data, deployed on Synology NAS with Docker.
 - **[Data Analytics Learning](https://github.com/silicastormsiam/data-analytics-learning)**: Google Data Analytics coursework.
 - **[Project Management Learning](https://github.com/silicastormsiam/project-management-learning)**: Google Project Management coursework.
@@ -41,7 +40,6 @@ This is the **centralized index** for all active, historical, and archived proje
 
 | Project Name | Repo Link | Status | Notes / Next Actions |
 |--------------|-----------|--------|----------------------|
-| **Hive PMO** | [Hive-PMO](https://github.com/silicastormsiam/Hive-PMO) | ✅ Live | The board that runs the PMO: nine stages, an AI team on each stage, one approval gate. |
 | **Cyberpunk Monk Chatbot** | [CyberpunkMonkChatbot](https://github.com/silicastormsiam/CyberpunkMonkChatbot) | ✅ PMO Approved | Active; maintain stability & monitor traffic. |
 | **R.A.T.S. – Recruitment Alert Tracking System** | [rats](https://github.com/silicastormsiam/rats) | ✅ PMO Approved | Functional beta by Microsoft Fundamentals completion. |
 | **Project Management Learning** | [project-management-learning](https://github.com/silicastormsiam/project-management-learning) | ✅ PMO Recognized | Documentation-focused. |
@@ -88,7 +86,7 @@ This is the **centralized index** for all active, historical, and archived proje
 
 ---
 
-*Last updated: October 23, 2026 – Maintained by Sensei PMO*
+*Last updated: August 13, 2025 – Maintained by Sensei PMO*
 ```
 
 
