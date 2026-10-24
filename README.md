@@ -1,7 +1,7 @@
 # 👋 Welcome to SilicaStormSiam's GitHub!
 <a href="https://github.com/silicastormsiam"><img src="https://avatars.githubusercontent.com/u/<your_user_id>?v=4" alt="Andrew John Holland" style="width:100px; height:100px; border-radius:50%; border: 2px solid transparent;" onmouseover="this.style.border='2px solid #FF69B4';" onmouseout="this.style.border='2px solid transparent';"></a>
 
-Hi, I'm **Andrew John Holland** (`silicastormsiam`).  
+Hi, I'm **[Andrew John Holland](https://andrewholland.com/)** (`silicastormsiam`).  
 With experience at multiple airlines, including **Etihad Airways**, leading large-scale software projects and managing crew planning for 10,000+ personnel, I’m pursuing **Google Project Management** and **Google Data Analytics Professional Certificates** through the Grow with Google program.
 
 ---
@@ -77,7 +77,7 @@ This is the **centralized index** for all active, historical, and archived proje
 - [YouTube](https://www.youtube.com/@SilicaStormSiam)
 - [GitHub](https://github.com/silicastormsiam)
 - [LinkedIn](https://www.linkedin.com/in/andrew-holland-391a562b/)
-- [Website](https://andrewholland.com)
+- [Website](https://andrewholland.com/)
 
 ---
 
